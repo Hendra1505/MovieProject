@@ -6,7 +6,7 @@
 
 .intro {
   height: 300px;
-  display: flex-end;
+  display: flex;
   justify-content: flex-end;
   align-items: flex-end;
 }
@@ -31,8 +31,8 @@
   background-size: cover;
 }
 
-.movieWrapper {
-}
+/* .movieWrapper {
+} */
 
 .movieImage {
   height: auto;
